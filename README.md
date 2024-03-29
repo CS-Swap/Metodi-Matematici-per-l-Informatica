@@ -3,5 +3,5 @@
 **Esami**
 -- 🚧 work in progress 🚧 --
 
-**Esercizzi:**
+**Esercizi:**
 - [Induzioni](/Esercizzi/Induzioni/Induzioni.md)
