@@ -4,4 +4,4 @@
 -- 🚧 work in progress 🚧 --
 
 **Esercizi:**
-- [Induzioni](/Esercizzi/Induzioni/Induzioni.md)
+- [Induzioni](https://github.com/CS-Swap/Metodi-Matematici-per-l-Informatica/labels/Induzione)
