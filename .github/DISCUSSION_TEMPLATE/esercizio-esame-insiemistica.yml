@@ -1,0 +1,10 @@
+title: "Esame - [GG/MESE/AAAA] - Esercizio <numero>"
+labels: ["Esame", "Insiemistica"]
+body:
+- type: textarea
+  attributes:
+    label: Traccia Esercizio
+    description: Inserisci qui la traccia o una foto dell'esercizio, se presente anche la soluzione del Prof
+    value: Se hai la soluzione del prof inseriscila nel blocco o cancella tutta la sezione <details><summary>Soluzione Prof</summary><p> Inserisci al mio posto la foto </p></details> 
+  validations:
+    required: true
